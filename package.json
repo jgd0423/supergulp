@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/jgd0423/supergulp#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/register": "^7.11.5"
   }
 }
