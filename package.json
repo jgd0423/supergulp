@@ -5,7 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "gulp dev",
-    "build": "gulp build"
+    "build": "gulp build",
+    "deploy": "gulp deploy"
   },
   "repository": {
     "type": "git",
@@ -34,6 +35,7 @@
     "babelify": "^10.0.0",
     "del": "^5.1.0",
     "gulp-bro": "^2.0.0",
+    "gulp-gh-pages": "^0.5.4",
     "uglifyify": "^5.0.2"
   },
   "browserslist": [
